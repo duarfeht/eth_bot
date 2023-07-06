@@ -1,0 +1,9 @@
+
+colorama
+hdwallet
+etherscan
+pyetherscan
+etherscan-python
+lxml
+
+
